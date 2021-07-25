@@ -1,3 +1,0 @@
-ECHO Starting Minecraft...please wait...
-net stop ClipSVC
-ECHO Done! Now start Minecraft and enjoy!
